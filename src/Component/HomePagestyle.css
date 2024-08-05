@@ -1,0 +1,91 @@
+.container{
+    width: 100vw;
+    height: 300px;
+    margin-top: 60px;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.left{
+    margin-left: 15px;
+   
+}
+.right{
+    margin-right: 50px;
+    margin-top: 18px;
+    display: flex;
+}
+.homepage h2{
+    color:  #2E0052;  
+    font-size: 35px; 
+    position: relative; 
+    top: -20px;
+}
+.homepage{
+  display: flex;
+  list-style: none;
+}
+.homepage li{
+    margin-left: 10px;
+}
+.homepage h3{
+    position: relative;
+    top: 5px;
+    left: 10px;
+    font-weight: 400;
+}
+.firstdiv{
+    width: 217px;
+    height: 52px;
+    background-color:  #1D7000;
+    display: flex;
+    align-items: center;
+    color: white;
+  border-radius: 47px;
+}
+.firstdiv img{
+   margin-left: 20px;
+}
+.firstdiv p{
+    font-size: 25px;
+    position: relative;
+    top: -5px;
+    left: 10px;
+}
+.seconddiv{
+    width: 75px;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000000;
+    border: 1px solid #2E0052;
+    border-radius: 50%;
+    position: relative;
+    top: -10px;
+    left: 15px;
+}
+.bannar{
+    position: relative;
+    top: -20px;
+    width: 1250px;
+    height: 200px;
+    margin-left: 70px;
+    border-radius: 29px;
+    background-image: linear-gradient(to right, #7286B4, #E794CE);
+    display: flex;
+    justify-content: space-between;
+}
+.heroin img{
+    width: 550px;
+    height: 240px;
+    position: relative;
+    top: -40px;
+    right: -40px;
+}
+.headline h1 {
+    font-size: 55px;
+    margin-left: 20px;
+    color: #2E0052;
+}

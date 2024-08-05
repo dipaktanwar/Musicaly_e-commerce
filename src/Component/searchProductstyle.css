@@ -1,0 +1,75 @@
+.searchbar{
+    width: 1250px;
+    height: 50px;
+    border: 3px solid #C8C8C8;
+    border-radius: 48px;
+    margin-left: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.searchbar input{
+    width: 1100px;
+    height: 40px;
+    border: none;
+    outline: none;
+    margin-left: 10px;
+
+}
+.image3{
+    position: relative;
+    top: 5px;
+}
+.searchbar1{
+    margin-top: 10px;
+    margin-left: 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.left1{
+  display: flex;
+  align-items: center;
+}
+.selection{
+    display: flex;
+    margin-left: 10px;
+}
+
+.option select{
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-around;
+    width: 170px ;
+    height:40px ;
+    background-color:  #D9D9D9 ;
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 17px;
+}
+.option1 select{
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-around;
+    width: 170px ;
+    height:40px ;
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 17px;
+}
+.option1 option{
+    background-color: white;
+    color: black;
+    font-size: 13px;
+}
+.option option{
+    background-color: white;
+    color: black;
+    font-size: 13px;
+}
+
+.right1{
+   margin-right: 80px;
+}
